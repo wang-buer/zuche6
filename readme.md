@@ -26,7 +26,11 @@
 - tomcat版本：Tomcat 7-10版本均可
 - maven版本：无限制
 - 硬件环境：Windows
+## 获取方式
 
+下方扫一扫关注后，后台回复关键词：**租车**，查看导入教程视频、sql脚本和源码等
+
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 ## 4、功能介绍
 
